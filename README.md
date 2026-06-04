@@ -39,9 +39,16 @@ Esenlikler, ben Ulaş. Mekatronik mühendisliği öğrencisiyim; hem bölümüm 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header)
 
 ## 𝓖𝓲𝓽𝓗𝓾𝓫 𝓘𝓼𝓽𝓪𝓽𝓲𝓼𝓽𝓲𝓴𝓵𝓮𝓻𝓲𝓶 📊
-![GitHub Stats](https://github-readme-stats-theta-one-56.vercel.app/api?username=syaltha0&theme=tokyonight&show_icons=true&hide_border=true&hide_rank=true&card_width=400)
-![Top Languages](https://github-readme-stats-theta-one-56.vercel.app/api/top-langs/?username=syaltha0&theme=tokyonight&layout=compact&hide_border=true&card_width=400&langs_count=8)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-theta-one-56.vercel.app/api?username=syaltha0&theme=tokyonight&show_icons=true&hide_border=true&hide_rank=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-theta-one-56.vercel.app/api/top-langs/?username=syaltha0&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" />
+    </td>
+  </tr>
+</table>
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header)
 
 <img src="https://media1.tenor.com/m/Nhpcpn_xgxQAAAAd/sousou-no-frieren-fern.gif" width="600" style="border-radius:12px"/>
