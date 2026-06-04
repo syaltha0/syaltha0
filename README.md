@@ -8,9 +8,7 @@
 
 ## 𝓗𝓪𝓴𝓴𝓲𝓶𝓭𝓪 ✨
 
-Mekatronik Muhendisligi ogrencisi 🎓
-Anime & oyun sevdalisi 🌸🎮
-Turkiye 🇹🇷
+Esenlikler, ben Ulaş. Mekatronik mühendisliği öğrencisiyim; hem bölümüm gereği hem de ilgi alanıma binaen kodlamayla uğraşıyorum. Yaptığım şeyleri genelde burada paylaşıyorum.
 
 <br/>
 
