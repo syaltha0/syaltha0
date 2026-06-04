@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===================== HEADER ===================== -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=syaltha0&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Profilime+Hosgeldin!&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=syaltha0&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B48EF7&center=true&vCenter=true&width=620&lines=Merhaba%21;Ben+Ula%C5%9F;Profilime+ho%C5%9F+geldin%21)](https://github.com/syaltha0)
@@ -12,11 +12,11 @@
 
 Esenlikler, ben Ulaş. Mekatronik mühendisliği öğrencisiyim; hem bölümüm gereği hem de ilgi alanlarıma binaen kodlamayla uğraşıyorum. Yaptığım şeyleri genelde burada paylaşıyorum.
 
-```text
-Şu an         →  Gömülü sistemler & self-hosting projeleri
-Gelişiyorum   →  Web tarafı (Next.js) ve Python
-İlgi alanları →  Anime, film, oyun — profillerim aşağıda
-```
+🔭 **Şu an** — Gömülü sistemler & self-hosting projeleri
+<br/>
+🌱 **Gelişiyorum** — Web tarafı (Next.js) ve Python
+<br/>
+🎮 **İlgi alanları** — Anime, film, oyun
 
 ## 🛠️ 𝓣𝓮𝓴𝓷𝓸𝓵𝓸𝓳𝓲𝓵𝓮𝓻
 
