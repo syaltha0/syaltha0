@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Merhaba%2C+ben+Ulaş!+👋)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Merhaba%2C+ben+Ula%C5%9F!+%F0%9F%91%8B)
 
 ---
 
@@ -6,8 +6,8 @@
 
 [![](https://img.shields.io/badge/syaltha0%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/syaltha0)
 
-[![Discord Presence](https://lanyard.kyrie25.dev/api/SENIN_DISCORD_ID?imgStyle=circle&animatedDecoration=true&hideProfile=false&showDisplayName=true&hideStatus=true&borderRadius=20px&gradient=7E37F9-B48EF7-E568C4)](https://discord.com/users/476642469686280204)
+[![Discord Presence](https://lanyard.kyrie25.dev/api/476642469686280204?imgStyle=circle&animatedDecoration=true&hideProfile=false&showDisplayName=true&hideStatus=true&borderRadius=20px&gradient=7E37F9-B48EF7-E568C4)](https://discord.com/users/476642469686280204)
 
 ---
 
-![Fern](https://media1.tenor.com/m/Nhpcpn_xgxQAAAAC/sousou-no-frieren-fern.gif)
+<img src="https://media1.tenor.com/m/Nhpcpn_xgxQAAAAd/sousou-no-frieren-fern.gif" width="400"/>
