@@ -1,6 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=syaltha0&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Profilime+Hosgeldin!&descAlignY=58&descSize=18)
+<!-- ===================== HEADER ===================== -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=syaltha0&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Profilime+Hosgeldin!&descAlignY=58&descSize=18)
+
+<!-- ===================== TYPING ANIMATION ===================== -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B48EF7&center=true&vCenter=true&width=620&lines=Mekatronik+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Embedded+%26+Arduino+Tutkunu;Self-Hosting+%26+Linux+Merakl%C4%B1s%C4%B1;Daima+%C3%B6%C4%9Frenmeye+a%C3%A7%C4%B1k...)](https://github.com/syaltha0)
 
 [![](https://count.getloli.com/get/@syaltha0?theme=rule34)](https://github.com/syaltha0)
 
@@ -9,18 +13,42 @@
 ## 𝓗𝓪𝓴𝓴𝓲𝓶𝓭𝓪 ✨
 
 Esenlikler, ben Ulaş. Mekatronik mühendisliği öğrencisiyim; hem bölümüm gereği hem de ilgi alanlarıma binaen kodlamayla uğraşıyorum. Yaptığım şeyleri genelde burada paylaşıyorum.
-<br/>
+
+```text
+🔭  Şu an  : Embedded sistemler & self-hosting projeleri
+🌱  Gelişiyorum : Web tarafı (Next.js) ve sistem yönetimi
+🎮  İlgi    : Anime, film, oyun — profillerim aşağıda
+💬  Ulaş    : Discord (en aktif olduğum yer)
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header" width="100%"/>
+
+## 🛠️ 𝓣𝓮𝓴𝓷𝓸𝓵𝓸𝓳𝓲𝓵𝓮𝓻
+
+**Diller**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Gömülü & Sistem**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**Araçlar** _(istediğini ekleyip çıkarabilirsin)_
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 <br/>
+
+## 🔗 𝓑𝓪𝓰𝓵𝓪𝓷𝓽𝓲𝓵𝓪𝓻
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syaltha0)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@syaltha0)
@@ -50,7 +78,26 @@ Esenlikler, ben Ulaş. Mekatronik mühendisliği öğrencisiyim; hem bölümüm 
   </tr>
 </table>
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=syaltha0&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="200"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=syaltha0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=syaltha0&theme=tokyo-night&hide_border=true&area=true&custom_title=Katk%C4%B1%20Grafi%C4%9Fi" width="100%"/>
+
+<!-- Yılan animasyonu — repo'na bir GitHub Action eklemen gerekiyor (sohbette anlattım) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syaltha0/syaltha0/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syaltha0/syaltha0/output/snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/syaltha0/syaltha0/output/snake.svg" />
+</picture>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header" width="100%"/>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <img src="https://media1.tenor.com/m/Nhpcpn_xgxQAAAAd/sousou-no-frieren-fern.gif" width="600"/>
 
