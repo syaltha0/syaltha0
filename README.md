@@ -8,7 +8,18 @@
 
 ## 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ✨
 
-buraya bir şeyler yazacağım
+Mekatronik Muhendisligi ogrencisi 🎓
+Anime & oyun sevdalisi 🌸🎮
+Turkiye 🇹🇷
+
+<br/>
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 <br/>
 
@@ -20,15 +31,16 @@ buraya bir şeyler yazacağım
 
 <br/>
 
+---
+
 ## 📊 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syaltha0&theme=tokyonight&show_icons=true&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syaltha0&theme=tokyonight&layout=compact&hide_border=true)
 
 ---
 
-<img src="https://media1.tenor.com/m/Nhpcpn_xgxQAAAAd/sousou-no-frieren-fern.gif" width="600"/>
+<img src="https://media1.tenor.com/m/Nhpcpn_xgxQAAAAd/sousou-no-frieren-fern.gif" width="600" style="border-radius:12px"/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer)
 
