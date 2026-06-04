@@ -4,12 +4,11 @@
 
 [![](https://count.getloli.com/get/@syaltha0?theme=rule34)](https://github.com/syaltha0)
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header" width="100%"/>
 
 ## 𝓗𝓪𝓴𝓴𝓲𝓶𝓭𝓪 ✨
 
 Esenlikler, ben Ulaş. Mekatronik mühendisliği öğrencisiyim; hem bölümüm gereği hem de ilgi alanlarıma binaen kodlamayla uğraşıyorum. Yaptığım şeyleri genelde burada paylaşıyorum.
-
 <br/>
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -36,22 +35,24 @@ Esenlikler, ben Ulaş. Mekatronik mühendisliği öğrencisiyim; hem bölümüm 
 
 [![Discord Presence](https://lanyard.kyrie25.dev/api/476642469686280204?imgStyle=circle&animatedDecoration=true&hideProfile=false&showDisplayName=true&hideStatus=true&borderRadius=20px&gradient=7E37F9-B48EF7-E568C4)](https://discord.com/users/476642469686280204)
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header" width="100%"/>
 
-## 𝓖𝓲𝓽𝓗𝓾𝓫 𝓘𝓼𝓽𝓪𝓽𝓲𝓼𝓽𝓲𝓴𝓵𝓮𝓻𝓲𝓶 📊
+## 📊 𝓖𝓲𝓽𝓗𝓾𝓫 𝓘𝓼𝓽𝓪𝓽𝓲𝓼𝓽𝓲𝓴𝓵𝓮𝓻𝓲𝓶
+
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-theta-one-56.vercel.app/api?username=syaltha0&theme=tokyonight&show_icons=true&hide_border=true&hide_rank=true" />
+      <img src="https://github-readme-stats-theta-one-56.vercel.app/api?username=syaltha0&theme=tokyonight&show_icons=true&hide_border=true&hide_rank=true&card_width=380" height="200"/>
     </td>
     <td>
-      <img src="https://github-readme-stats-theta-one-56.vercel.app/api/top-langs/?username=syaltha0&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" />
+      <img src="https://github-readme-stats-theta-one-56.vercel.app/api/top-langs/?username=syaltha0&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&card_width=380" height="200"/>
     </td>
   </tr>
 </table>
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header)
 
-<img src="https://media1.tenor.com/m/Nhpcpn_xgxQAAAAd/sousou-no-frieren-fern.gif" width="600" style="border-radius:12px"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header" width="100%"/>
+
+<img src="https://media1.tenor.com/m/Nhpcpn_xgxQAAAAd/sousou-no-frieren-fern.gif" width="600"/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer)
 
