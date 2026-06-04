@@ -16,7 +16,7 @@ Esenlikler, ben Ulaş. Mekatronik mühendisliği öğrencisiyim; hem bölümüm 
 <br/>
 🌱 **Gelişiyorum** — Web tarafı (Next.js) ve Python
 <br/>
-🎮 **İlgi alanları** — Anime, film, oyun
+🎮 **İlgi alanlarım** — Anime, film, oyun
 
 ## 🛠️ 𝓣𝓮𝓴𝓷𝓸𝓵𝓸𝓳𝓲𝓵𝓮𝓻
 
@@ -35,7 +35,7 @@ Esenlikler, ben Ulaş. Mekatronik mühendisliği öğrencisiyim; hem bölümüm 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-**Araçlar** _(istediğini ekleyip çıkarabilirsin)_
+**Araçlar**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
