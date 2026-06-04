@@ -14,7 +14,6 @@ Esenlikler, ben Ulaş. Mekatronik mühendisliği öğrencisiyim; hem bölümüm 
 <br/>
 🌱 **Gelişiyorum** — Web tarafı (Next.js) ve Python
 <br/>
-🎮 **İlgi alanlarım** — Anime, film, oyun...
 
 ## 🛠️ 𝓣𝓮𝓴𝓷𝓸𝓵𝓸𝓳𝓲𝓵𝓮𝓻
 
