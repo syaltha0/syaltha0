@@ -15,10 +15,9 @@
 Esenlikler, ben Ulaş. Mekatronik mühendisliği öğrencisiyim; hem bölümüm gereği hem de ilgi alanlarıma binaen kodlamayla uğraşıyorum. Yaptığım şeyleri genelde burada paylaşıyorum.
 
 ```text
-🔭  Şu an  : Embedded sistemler & self-hosting projeleri
-🌱  Gelişiyorum : Web tarafı (Next.js) ve sistem yönetimi
-🎮  İlgi    : Anime, film, oyun — profillerim aşağıda
-💬  Ulaş    : Discord (en aktif olduğum yer)
+🔭  Şu an         : Gömülü sistemler & self-hosting projeleri
+🌱  Gelişiyorum   : Web tarafı (Next.js) ve python 
+🎮  İlgi alanları :  Anime, film, oyun — profillerim aşağıda
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header" width="100%"/>
@@ -39,12 +38,6 @@ Esenlikler, ben Ulaş. Mekatronik mühendisliği öğrencisiyim; hem bölümüm 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
-**Araçlar** _(istediğini ekleyip çıkarabilirsin)_
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 <br/>
 
@@ -84,7 +77,6 @@ Esenlikler, ben Ulaş. Mekatronik mühendisliği öğrencisiyim; hem bölümüm 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=syaltha0&theme=tokyo-night&hide_border=true&area=true&custom_title=Katk%C4%B1%20Grafi%C4%9Fi" width="100%"/>
 
-<!-- Yılan animasyonu — repo'na bir GitHub Action eklemen gerekiyor (sohbette anlattım) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syaltha0/syaltha0/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syaltha0/syaltha0/output/snake.svg" />
