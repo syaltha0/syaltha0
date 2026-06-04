@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- ===================== HEADER ===================== -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=syaltha0&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
-<!-- ===================== TYPING ANIMATION ===================== -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B48EF7&center=true&vCenter=true&width=620&lines=Merhaba%21;Ben+Ula%C5%9F;Profilime+ho%C5%9F+geldin%21)](https://github.com/syaltha0)
 
 [![](https://count.getloli.com/get/@syaltha0?theme=rule34)](https://github.com/syaltha0)
@@ -77,7 +75,6 @@ Esenlikler, ben Ulaş. Mekatronik mühendisliği öğrencisiyim; hem bölümüm 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=syaltha0&theme=tokyo-night&hide_border=true&area=true&custom_title=Katk%C4%B1%20Grafi%C4%9Fi" width="100%"/>
 
-<!-- Yılan animasyonu — repo'na bir GitHub Action eklemen gerekiyor (sohbette anlattım) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syaltha0/syaltha0/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syaltha0/syaltha0/output/snake.svg" />
