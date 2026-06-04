@@ -82,10 +82,6 @@ Esenlikler, ben Ulaş. Mekatronik mühendisliği öğrencisiyim; hem bölümüm 
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=syaltha0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=syaltha0&theme=tokyo-night&hide_border=true&area=true&custom_title=Katk%C4%B1%20Grafi%C4%9Fi" width="100%"/>
 
 <!-- Yılan animasyonu — repo'na bir GitHub Action eklemen gerekiyor (sohbette anlattım) -->
@@ -96,8 +92,6 @@ Esenlikler, ben Ulaş. Mekatronik mühendisliği öğrencisiyim; hem bölümüm 
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header" width="100%"/>
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <img src="https://media1.tenor.com/m/Nhpcpn_xgxQAAAAd/sousou-no-frieren-fern.gif" width="600"/>
 
