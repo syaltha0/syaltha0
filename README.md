@@ -58,12 +58,11 @@ Esenlikler, ben Ulaş. Mekatronik mühendisliği öğrencisiyim; hem bölümüm 
 
 ## 📊 𝓖𝓲𝓽𝓗𝓾𝓫 𝓘𝓼𝓽𝓪𝓽𝓲𝓼𝓽𝓲𝓴𝓵𝓮𝓻𝓲𝓶
 
-<img src="https://github-readme-stats-theta-one-56.vercel.app/api?username=syaltha0&theme=tokyonight&show_icons=true&hide_border=true&hide_rank=true&card_width=380" height="200"/>
-<img src="https://github-readme-stats-theta-one-56.vercel.app/api/top-langs/?username=syaltha0&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&card_width=380" height="200"/>
+<img src="https://github-readme-stats-theta-one-56.vercel.app/api?username=syaltha0&theme=tokyonight&show_icons=true&hide_border=true&hide_rank=true&card_width=450" height="180"/>
 
-<br/>
+<img src="https://github-readme-stats-theta-one-56.vercel.app/api/top-langs/?username=syaltha0&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&card_width=450" height="150"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=syaltha0&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="200"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=syaltha0&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180"/>
 
 <br/>
 
