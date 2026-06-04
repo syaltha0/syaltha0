@@ -6,7 +6,7 @@
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header)
 
-## 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ✨
+## Hakkımda ✨
 
 Mekatronik Muhendisligi ogrencisi 🎓
 Anime & oyun sevdalisi 🌸🎮
