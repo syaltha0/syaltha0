@@ -10,11 +10,11 @@
 
 Esenlikler, ben Ulaş. Mekatronik mühendisliği öğrencisiyim; hem bölümüm gereği hem de ilgi alanlarıma binaen kodlamayla uğraşıyorum. Yaptığım şeyleri genelde burada paylaşıyorum.
 
-🔭 **Şu an** — Gömülü sistemler & self-hosting projeleri
+🔭 **Şu an** — Sistemler & self-hosting projeleri
 <br/>
 🌱 **Gelişiyorum** — Web tarafı (Next.js) ve Python
 <br/>
-🎮 **İlgi alanlarım** — Anime, film, oyun
+🎮 **İlgi alanlarım** — Anime, film, oyun...
 
 ## 🛠️ 𝓣𝓮𝓴𝓷𝓸𝓵𝓸𝓳𝓲𝓵𝓮𝓻
 
@@ -26,7 +26,7 @@ Esenlikler, ben Ulaş. Mekatronik mühendisliği öğrencisiyim; hem bölümüm 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Gömülü & Sistem**
+**Sistemler**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
