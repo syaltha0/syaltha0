@@ -8,13 +8,7 @@
 
 ## 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ✨
 
-| | |
-|---|---|
-| 🎓 | Mekatronik Mühendisligi ogrencisi |
-| 🎮 | Oyun oynamayi severim |
-| 🌸 | Anime izlerim |
-| 💻 | Kod yazarim |
-| 🌍 | Turkiye |
+buraya bir şeyler yazacağım
 
 <br/>
 
@@ -34,7 +28,7 @@
 
 ---
 
-<img src="https://media1.tenor.com/m/Nhpcpn_xgxQAAAAd/sousou-no-frieren-fern.gif" width="380"/>
+<img src="https://media1.tenor.com/m/Nhpcpn_xgxQAAAAd/sousou-no-frieren-fern.gif" width="600"/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer)
 
