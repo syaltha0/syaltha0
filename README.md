@@ -8,7 +8,7 @@
 
 ## 𝓗𝓪𝓴𝓴𝓲𝓶𝓭𝓪 ✨
 
-Esenlikler, ben Ulaş. Mekatronik mühendisliği öğrencisiyim; hem bölümüm gereği hem de ilgi alanıma binaen kodlamayla uğraşıyorum. Yaptığım şeyleri genelde burada paylaşıyorum.
+Esenlikler, ben Ulaş. Mekatronik mühendisliği öğrencisiyim; hem bölümüm gereği hem de ilgi alanlarıma binaen kodlamayla uğraşıyorum. Yaptığım şeyleri genelde burada paylaşıyorum.
 
 <br/>
 
