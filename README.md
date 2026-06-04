@@ -18,12 +18,21 @@ Turkiye 🇹🇷
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 <br/>
 
-[![](https://img.shields.io/badge/syaltha0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syaltha0)
+[![GitHub](https://img.shields.io/badge/syaltha0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syaltha0)
+[![YouTube](https://img.shields.io/badge/syaltha0-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@syaltha0)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/476642469686280204)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/syaltha0/)
+[![Letterboxd](https://img.shields.io/badge/Letterboxd-00C030?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/Syaltha)
+[![MyAnimeList](https://img.shields.io/badge/MAL-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/Syaltha)
+[![Backloggd](https://img.shields.io/badge/Backloggd-F45D3C?style=for-the-badge&logo=backloggd&logoColor=white)](https://backloggd.com/u/Syaltha)
+[![Serializd](https://img.shields.io/badge/Serializd-00C9B1?style=for-the-badge&logo=serializd&logoColor=white)](https://serializd.com/user/syaltha0)
 
 <br/>
 
