@@ -6,7 +6,7 @@
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header)
 
-## Hakkımda ✨
+## 𝓗𝓪𝓴𝓴𝓲𝓶𝓭𝓪 ✨
 
 Mekatronik Muhendisligi ogrencisi 🎓
 Anime & oyun sevdalisi 🌸🎮
@@ -40,7 +40,7 @@ Turkiye 🇹🇷
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header)
 
-## 📊 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
+## 𝓖𝓲𝓽𝓗𝓾𝓫 𝓘𝓼𝓽𝓪𝓽𝓲𝓼𝓽𝓲𝓴𝓵𝓮𝓻𝓲𝓶 📊
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syaltha0&theme=tokyonight&show_icons=true&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syaltha0&theme=tokyonight&layout=compact&hide_border=true)
