@@ -39,9 +39,8 @@ Esenlikler, ben Ulaş. Mekatronik mühendisliği öğrencisiyim; hem bölümüm 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header)
 
 ## 𝓖𝓲𝓽𝓗𝓾𝓫 𝓘𝓼𝓽𝓪𝓽𝓲𝓼𝓽𝓲𝓴𝓵𝓮𝓻𝓲𝓶 📊
-
-![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=syaltha0&theme=tokyonight&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=syaltha0&theme=tokyonight&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats-e3rhsz092-ulas-s-project.vercel.app/api?username=syaltha0&theme=tokyonight&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats-e3rhsz092-ulas-s-project.vercel.app/api/top-langs/?username=syaltha0&theme=tokyonight&layout=compact&hide_border=true)
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header)
 
