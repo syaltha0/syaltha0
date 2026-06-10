@@ -10,9 +10,9 @@
 
 Esenlikler, ben Ulaş. Mekatronik mühendisliği öğrencisiyim; hem bölümüm gereği hem de ilgi alanlarıma binaen kodlamayla uğraşıyorum. Yaptığım şeyleri genelde burada paylaşıyorum.
 
-🔭 **Şu an** — Sistemler & self-hosting projeleri
+🔭 **Şu an** — Sistemler & Öz barındırma projeleri
 <br/>
-🌱 **Gelişiyorum** — Web tarafı (Next.js) ve Python
+🌱 **Gelişiyorum** — Ağ tarafı (Next.js) ve Python
 <br/>
 
 ## 🛠️ 𝓣𝓮𝓴𝓷𝓸𝓵𝓸𝓳𝓲𝓵𝓮𝓻
